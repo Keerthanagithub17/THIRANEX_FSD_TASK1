@@ -1,0 +1,309 @@
+# Personal Portfolio Website
+
+A modern and responsive personal portfolio website developed as **Task 4** of the **Web Development Internship at Prodigy Infotech**.
+
+The portfolio showcases my skills, projects, education, internship experience, achievements, and contact information as an aspiring Software Engineer and Full Stack Developer.
+
+---
+
+## 🌐 Live Demo
+
+🔗 **Live Website:** https://keerthanagithub17.github.io/PRODIGY_WD_TASK4/
+
+---
+
+## 📌 Internship Task
+
+**Internship:** Web Development Internship
+**Organization:** Prodigy Infotech
+**Task:** Task 4 - Personal Portfolio Website
+
+### Task Objective
+
+Build a personal portfolio website that showcases skills, projects, and accomplishments as a web developer. The website includes a visually appealing layout with a professional introduction, skills, projects, educational background, professional experience, achievements, and contact information.
+
+---
+
+## ✨ Features
+
+* Responsive and modern portfolio design
+* Attractive dark-themed user interface
+* Fixed navigation bar
+* Smooth scrolling between sections
+* Responsive mobile navigation menu
+* Professional introduction section
+* Profile image section
+* About Me section
+* Skills showcase
+* Featured projects section
+* Direct links to live projects
+* Education details
+* Internship experience timeline
+* Achievements and certifications section
+* Resume view option
+* Resume download option
+* Contact form interface
+* GitHub and LinkedIn profile links
+* Fully responsive design for desktop, tablet, and mobile devices
+
+---
+
+## 🏠 Website Sections
+
+### Home
+
+The home section introduces me as an aspiring Software Engineer and includes:
+
+* Professional headline
+* Brief introduction
+* Profile image
+* View My Work button
+* View Resume button
+* Download Resume button
+* GitHub profile link
+* LinkedIn profile link
+
+### About Me
+
+The About Me section provides information about:
+
+* Computer Science and Engineering background
+* Current academic status
+* Interest in Software Development
+* Interest in Full Stack Development
+* Career goals
+* Internship experience
+
+### Skills
+
+The portfolio showcases the following technical skills:
+
+* Java
+* Python
+* HTML
+* CSS
+* JavaScript
+* React
+* Node.js
+* MySQL
+* MongoDB
+
+### Projects
+
+Featured projects include:
+
+#### 1. Contact Form
+
+A backend-based contact form application with API integration for sending submitted messages through Gmail.
+
+**Technologies Used:**
+
+* React
+* Node.js
+* Express.js
+* MySQL
+
+🔗 Live Demo: https://contact-form-two-brown.vercel.app/
+
+---
+
+#### 2. Digital Vault Security App
+
+A web application designed to securely store user information and provide password-protected access.
+
+**Technologies Used:**
+
+* React
+* MongoDB
+* Node.js
+
+🔗 Live Demo: https://digitalvault-securefamily-qdb3.vercel.app/
+
+---
+
+#### 3. Coffee Shop Website
+
+A responsive single-page coffee shop website with Firebase integration.
+
+**Technologies Used:**
+
+* HTML
+* CSS
+* JavaScript
+* Firebase
+
+🔗 Live Demo: https://brew-haven-web.vercel.app/
+
+---
+
+#### 4. Stopwatch Web Application
+
+A responsive stopwatch application featuring start, pause, reset, and lap tracking functionality.
+
+**Technologies Used:**
+
+* HTML
+* CSS
+* JavaScript
+
+🔗 Live Demo: https://keerthanagithub17.github.io/PRODIGY_WD_TASK2/
+
+---
+
+#### 5. Tic-Tac-Toe Game
+
+An interactive two-player Tic-Tac-Toe game with game state management, player turns, and win detection.
+
+**Technologies Used:**
+
+* HTML
+* CSS
+* JavaScript
+
+🔗 Live Demo: https://keerthanagithub17.github.io/PRODIGY_WD_TASK3/
+
+---
+
+#### 6. Responsive Navigation Website
+
+A responsive website featuring a fixed navigation menu with interactive scroll and hover effects.
+
+**Technologies Used:**
+
+* HTML
+* CSS
+* JavaScript
+
+🔗 Live Demo: https://keerthanagithub17.github.io/PRODIGY_WD_TASK1/
+
+---
+
+## 💼 Experience
+
+### Web Development Intern
+
+**Prodigy Infotech**
+
+Working on practical web development projects using HTML, CSS, and JavaScript while gaining hands-on experience in building responsive and interactive web applications.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering in Computer Science and Engineering**
+
+Prince Dr. K. Vasudevan College of Engineering & Technology
+
+Currently pursuing the third year of the program.
+
+---
+
+## 🏆 Achievements & Certifications
+
+* IBM SkillsBuild Web Development Certificate
+* Deloitte Technology Job Simulation
+* Gemini Certified Student
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+
+### Other Tools
+
+* Git
+* GitHub
+* Visual Studio Code
+
+---
+
+## 📁 Project Structure
+
+```text
+PRODIGY_WD_TASK4/
+│
+├── index.html
+├── style.css
+├── script.js
+├── profile.jpg
+├── Keerthana_Resume.pdf
+└── README.md
+```
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Keerthanagithub17/PRODIGY_WD_TASK4.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd PRODIGY_WD_TASK4
+```
+
+3. Open the project in Visual Studio Code.
+
+4. Open `index.html` using Live Server.
+
+---
+
+## 📱 Responsive Design
+
+The website is designed to provide a smooth experience across different devices:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+
+The navigation menu automatically adapts for smaller screens.
+
+---
+
+## 🔗 Connect With Me
+
+### GitHub
+
+https://github.com/Keerthanagithub17
+
+### LinkedIn
+
+https://www.linkedin.com/in/keerthana-k-077829301/
+
+### Email
+
+[keerthanayashika@gmail.com](mailto:keerthanayashika@gmail.com)
+
+---
+
+## 🙏 Acknowledgement
+
+I would like to thank **Prodigy Infotech** for providing the opportunity to work on practical web development tasks during the Web Development Internship.
+
+This project was developed as part of the internship program to improve my skills in designing responsive, interactive, and visually appealing web applications.
+
+---
+
+## 📄 License
+
+This project is created for educational and portfolio purposes.
+
+---
+
+## 👩‍💻 Author
+
+**Keerthana**
+
+Aspiring Software Engineer | Full Stack Developer
+
+⭐ If you like this project, feel free to star the repository!
